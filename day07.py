@@ -1,4 +1,8 @@
-checked_a = {'shiny gold': True, 'other': False}
+"""
+Day 7: Handy Haversacks
+Url = https://adventofcode.com/2020/day/7
+"""
+checked_a = {'shiny gold': True}
 checked_b = {'other': 0}
 
 def get_input():
