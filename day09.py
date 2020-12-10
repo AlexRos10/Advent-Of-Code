@@ -1,3 +1,7 @@
+"""
+Day 9: Encoding Error
+Url = https://adventofcode.com/2020/day/9
+"""
 preamble = 25
 nums = []
 with open("inputs/input9.txt") as file:
