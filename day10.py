@@ -1,3 +1,8 @@
+"""
+Day 10: Adapter Array
+Url = https://adventofcode.com/2020/day/10
+"""
+
 with open('input10.txt') as file:
     numbers = file.readlines()
 
