@@ -1,3 +1,7 @@
+"""
+Day 8: Handheld Halting
+Url = https://adventofcode.com/2020/day/8
+"""
 program = []
 program_checked = []
 
